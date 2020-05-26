@@ -7,4 +7,5 @@ Dongyu Chen
 Natalie Monzavifar  
 Jake Real  
   
-Added Feature 1 — Justin  
+Added Feature 1 — Justin   
+Added Feature 1 — Natalie   
