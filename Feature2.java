@@ -1,4 +1,7 @@
+public class Feature2 {
+	public static void main(String[] args) {
 
-public interface Feature2 {
-	public void Feature2();
+		System.out.println("This is feature 2");
+
+	}
 }
